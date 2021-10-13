@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullahi1440
 - 👀 I’m full stack developer ...
-- 🌱 I’m currently learning javascrips & it's liprary special React native
+- 🌱 I’m currently learning javascrips & it's liprary special React js
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 
